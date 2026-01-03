@@ -1,0 +1,15 @@
+{
+  "id": "trusted-roll-modifier",
+  "title": "Trusted Roll Modifier",
+  "description": "Adds Min/Low/Normal/High/Max buttons for Trusted Players only, forcing all their rolls accordingly.",
+  "version": "1.0.0",
+  "authors": [
+    { "name": "Module Author" }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "esmodules": ["scripts/main.js"],
+  "styles": ["styles/main.css"]
+}
